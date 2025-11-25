@@ -1,0 +1,1 @@
+Django Todo App that perform CRUD operation to manage your daily activities, this is a full stack mini project with a simple and beatiful frontend template using bootstrap css and bootstrap font awasome 
